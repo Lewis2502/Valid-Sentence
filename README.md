@@ -1,2 +1,2 @@
 # Valid-Sentence
-Creating a valid sentence function is java
+Creating a valid sentence function using java and the eclipse ide.
