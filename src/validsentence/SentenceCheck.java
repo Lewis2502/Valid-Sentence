@@ -136,7 +136,8 @@ public class SentenceCheck {
 		 * System.out.println("Expected result of test 8: false");
 		 * System.out.println("Result of test 8: " + isSentenceValid(sentence8));
 		 */
-
+		
+		// Test cases to be removed from main after use
 		/*
 		 * Valid Sentences Tests 
 		 * The quick brown fox said “hello Mr lazy dog”. 
